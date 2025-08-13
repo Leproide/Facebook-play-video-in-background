@@ -10,10 +10,13 @@
 
 ## 📦 Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) in your browser.
-2. [Click here to install the script](https://github.com/Leproide/Facebook-play-video-in-background/facebook-nopause.user.js).
+2. [Click here to install the script](https://github.com/Leproide/Facebook-play-video-in-background/raw/refs/heads/main/facebook-nopause.user.js).
 3. Go to Facebook, start a video, switch tabs — it will keep playing.
 
 ## ⚠️ Notes
 - Tested on **Chrome**, **Edge**, and **Firefox**.
 - May not work on Safari due to WebKit restrictions.
 - Other extensions that modify Facebook videos might interfere.
+
+## 📜 License
+GPL v2
