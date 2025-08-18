@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Facebook No Pause (Hard Mode) - No KeepAlive
+// @name         Facebook play video in background
 // @namespace    fb-nopause
 // @version      1.1-no-keep
 // @description  Impedisce a Facebook di mettere in pausa i video quando cambi scheda (senza keep-alive)
